@@ -1,1 +1,1 @@
-# Project
+# Simple Email Application
