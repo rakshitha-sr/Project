@@ -1,1 +1,3 @@
 # Simple Email Application
+This simple email application is a Java-based program designed to generate professional email addresses based on user input. Users provide their first and last names, select a department, and the application automatically generates a company email address. Additionally, it creates a secure random password for the user. The program allows users to manage their mailbox by setting an alternate email and adjusting the mailbox capacity. With a user-friendly approach, it displays essential account details, such as the generated email and storage capacity. This project is ideal for learning Java fundamentals, including object-oriented programming concepts like constructors, encapsulation, and method handling.
+
